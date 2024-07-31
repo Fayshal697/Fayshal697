@@ -38,7 +38,7 @@ def create_bygender_df(df):
     bygender_df = df.groupby(by="gender").customer_id.nunique().reset_index()
     bygender_df.rename(columns={
         "customer_id": "customer"
-    }, inplce=True)
+    }, inplace=True)
     
     return bygender_df
 
