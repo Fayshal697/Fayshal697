@@ -1,4 +1,4 @@
-<h1 align="center">👋 Assalamu'alaikum! I'm Fayshal Karan Athilla</h1>
+<h1 align="center">👋 Assalamu'alaikum! I'm Fayshal</h1>
 <h3 align="center">Software Enthusiast | Passionate in Game Development, UI/UX Design, and Data Analysis</h3>
 
 <p align="left"> 
