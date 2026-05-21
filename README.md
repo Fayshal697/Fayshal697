@@ -1,5 +1,5 @@
-<h1 align="center">👋 Assalamu'alaikum! I'm Fayshal</h1>
-<h3 align="center">Software Enthusiast | Passionate in Game Development, UI/UX Design, and Data Analysis</h3>
+<h1 align="center">👋 Helllo there! I'm Fayshal</h1>
+<h3 align="center">Unity Game Developer | Game Programmer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Fayshal697&label=Profile%20views&color=0e75b6&style=flat" alt="Fayshal697" />
